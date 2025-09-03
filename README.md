@@ -7,46 +7,32 @@ System.
 To create ATM System software that will meet the needs of the applicant and help them
 to withdraw money,deposit.
 ### UML DIAGRAMS:
-
-## USECASE DIAGRAM
-
-<img width="908" height="746" alt="USE  CASE DIAGRAM" src="https://github.com/user-attachments/assets/8728941e-8b01-4021-8e48-b9dc9e5d315f" />
-
-## CLASS DIAGRAM
-
-
-
-<img width="1030" height="744" alt="CLASS DIAGRAM" src="https://github.com/user-attachments/assets/f9b601c8-2364-49d7-944c-b13a8bc6fdcd" />
-
-## SEQUENCE DIAGRAM
-
-<img width="1015" height="846" alt="SEQUENCE DIAGRAM" src="https://github.com/user-attachments/assets/e17fd144-6cb8-45bc-8436-be218759797f" />
-
-## ACTIVITY DIAGRAM
+```
+DEVELOPED BY: RESHMITHAA B
+REG.NO:21222224220080
+```
+### USECASE DIAGRAM:
+<img width="808" height="617" alt="image" src="https://github.com/user-attachments/assets/091d1b6f-e133-40db-8e2c-bb1201b1a3a3" />
 
 
-
-<img width="965" height="742" alt="ACTIVITY DIAGRAM" src="https://github.com/user-attachments/assets/cfe8047c-c602-4e1a-b1c4-24482befceff" />
-
-## COMMUNICATION DIAGRAM
+### SEQUENCE DIAGRAM:
+<img width="815" height="618" alt="image" src="https://github.com/user-attachments/assets/ad0edfb8-8b7e-4704-88ad-04ed17d57674" />
 
 
+### CLASSDIAGRAM:
 
-<img width="1046" height="742" alt="COMMUNICATION" src="https://github.com/user-attachments/assets/df3647b2-c494-4ca3-9823-f96340f2996d" />
+<img width="787" height="610" alt="image" src="https://github.com/user-attachments/assets/616e319b-58e8-46ab-8a81-1c6b61131ebf" />
 
-## PACKAGE DIAGRAM
-
-
-
-<img width="1052" height="862" alt="PACKAGE DIAGRAM" src="https://github.com/user-attachments/assets/185e3e30-0652-4756-a879-948632580115" />
+### ACTIVITY DAIGRAM:
+<img width="814" height="615" alt="image" src="https://github.com/user-attachments/assets/53d16c03-2c46-438b-a93c-54012cdbd52e" />
 
 
+### COMMUNICATION DIAGRAM:
+<img width="806" height="608" alt="image" src="https://github.com/user-attachments/assets/83891474-a7b2-4253-872d-83680c4e0eda" />
 
 
-
-
-
-
+### PACKAGE DAIGRAM:
+<img width="818" height="620" alt="image" src="https://github.com/user-attachments/assets/02a94e48-7323-468f-b801-f33d1f61ceaf" />
 
 
 
